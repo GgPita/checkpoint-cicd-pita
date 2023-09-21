@@ -8,4 +8,4 @@ RUN pip install pandas
 
 EXPOSE 80
 
-COPY . /GgPita/checkpoint-cicd-pita
+
